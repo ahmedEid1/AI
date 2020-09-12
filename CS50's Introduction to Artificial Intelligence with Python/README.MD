@@ -50,12 +50,6 @@ ___
     - Projects:
     -- Traffic
 ___
-- Lecture 5: Neural Networks
-    - Notes:
-    -- `link here`
-    - Projects:
-    -- Traffic
-___
 - Lecture 6: Language
     - Notes:
     -- `link here`
