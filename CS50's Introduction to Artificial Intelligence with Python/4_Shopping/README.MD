@@ -21,11 +21,11 @@ The load_data function should accept a CSV filename as its argument, open that f
 - Each element in the evidence list should itself be a list. The list should be of length 17: the number of columns in the spreadsheet excluding the final column (the label column).
 - The values in each evidence list should be in the same order as the columns that appear in the evidence spreadsheet. You may assume that the order of columns in shopping.csv will always be presented in that order.
 - Note that, to build a nearest-neighbor classifier, all of our data needs to be numeric. Be sure that your values have the following types:
--- Administrative, Informational, ProductRelated, Month, OperatingSystems, Browser, Region, TrafficType, VisitorType, and Weekend should all be of type int
--- Administrative_Duration, Informational_Duration, ProductRelated_Duration, BounceRates, ExitRates, PageValues, and SpecialDay should all be of type float.
--- Month should be 0 for January, 1 for February, 2 for March, etc. up to 11 for December.
--- VisitorType should be 1 for returning visitors and 0 for non-returning visitors.
--- Weekend should be 1 if the user visited on a weekend and 0 otherwise.
+    - Administrative, Informational, ProductRelated, Month, OperatingSystems, Browser, Region, TrafficType, VisitorType, and Weekend should all be of type int
+    - Administrative_Duration, Informational_Duration, ProductRelated_Duration, BounceRates, ExitRates, PageValues, and SpecialDay should all be of type float.
+    - Month should be 0 for January, 1 for February, 2 for March, etc. up to 11 for December.
+    - VisitorType should be 1 for returning visitors and 0 for non-returning visitors.
+    - Weekend should be 1 if the user visited on a weekend and 0 otherwise.
 - Each value of labels should either be the integer 1, if the user did go through with a purchase, or 0 otherwise.
 - For example, the value of the first evidence list should be [0, 0.0, 0, 0.0, 1, 0.0, 0.2, 0.2, 0.0, 0.0, 1, 1, 1, 1, 1, 1, 0] and the value of the first label should be 0.
 The train_model function should accept a list of evidence and a list of labels, and return a scikit-learn nearest-neighbor classifier (a k-nearest-neighbor classifier where k = 1) fitted on that training data.
