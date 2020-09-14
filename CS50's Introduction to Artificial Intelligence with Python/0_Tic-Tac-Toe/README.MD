@@ -2,6 +2,8 @@
 
 Using Minimax, implement an AI to play Tic-Tac-Toe optimally.
 
+## [WORKING VIDEO ](https://www.youtube.com/watch?v=fQi4SrW2acU&feature=youtu.be "CS50 AI")
+
 ----
 
 ## Specification

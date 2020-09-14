@@ -2,6 +2,9 @@
 
 Write a program to solve logic puzzles.
 
+## [WORKING VIDEO ](https://www.youtube.com/watch?v=2t4-tGtj908&feature=youtu.be "CS50 AI")
+
+
 ---
 
 ## Background

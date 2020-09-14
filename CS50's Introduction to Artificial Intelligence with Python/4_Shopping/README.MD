@@ -8,6 +8,7 @@ Incorrect: 844
 True Positive Rate: 41.02%
 True Negative Rate: 90.55%
 ```
+## [WORKING VIDEO ](https://studio.youtube.com/video/4auprHH9CSc/edit/basic "CS50 AI")
 
 ---
 

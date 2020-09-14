@@ -28,6 +28,7 @@ Lily:
     True: 0.0000
     False: 1.0000
 ```
+## [WORKING VIDEO ](https://www.youtube.com/watch?v=Dr4RFT9H-F8&feature=youtu.be "CS50 AI")
 
 ---
 

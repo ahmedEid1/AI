@@ -24,6 +24,7 @@ Epoch 10/10
 500/500 [==============================] - 10s 20ms/step - loss: 0.2497 - accuracy: 0.9256
 333/333 - 5s - loss: 0.1616 - accuracy: 0.9535
 ```
+## [WORKING VIDEO ](https://www.youtube.com/watch?v=OxKpEF4sqXM&feature=youtu.be "CS50 AI")
 
 ---
 

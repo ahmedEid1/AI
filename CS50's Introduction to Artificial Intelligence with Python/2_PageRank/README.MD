@@ -14,6 +14,8 @@ PageRank Results from Iteration
   3.html: 0.2202
   4.html: 0.1307
 ```
+## [WORKING VIDEO ](https://www.youtube.com/watch?v=s_F56ww70dA&feature=youtu.be "CS50 AI")
+
 
 ## Specification
 Complete the implementation of transition_model, sample_pagerank, and iterate_pagerank.

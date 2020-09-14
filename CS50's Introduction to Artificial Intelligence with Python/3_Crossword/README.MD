@@ -12,6 +12,8 @@ $ python generate.py data/structure1.txt data/words1.txt output.png
 ███████X████E█
 ██████████████
 ```
+## [WORKING VIDEO ](https://www.youtube.com/watch?v=bZTytjnJX14&feature=youtu.be "CS50 AI")
+
 ---
 
 ## Specification

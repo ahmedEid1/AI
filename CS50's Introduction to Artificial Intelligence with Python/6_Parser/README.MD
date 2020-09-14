@@ -14,6 +14,7 @@ holmes     sat
 Noun Phrase Chunks
 holmes
 ```
+## [WORKING VIDEO ](https://www.youtube.com/watch?v=DKUzvNxSJOY&feature=youtu.be "CS50 AI")
 
 ---
 

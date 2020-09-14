@@ -2,6 +2,8 @@
 
 Write an AI to play Minesweeper.
 
+## [WORKING VIDEO ](https://www.youtube.com/watch?v=B_QCGDz6cmc&feature=youtu.be "CS50 AI")
+
 ---
 
 # Background

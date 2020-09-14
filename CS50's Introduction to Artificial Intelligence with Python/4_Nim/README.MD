@@ -19,6 +19,7 @@ Pile 3: 7
 AI's Turn
 AI chose to take 1 from pile 2.
 ```
+## [WORKING VIDEO ](https://www.youtube.com/watch?v=fQi4SrW2acU&feature=youtu.be "CS50 AI")
 
 ---
 
