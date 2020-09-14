@@ -14,47 +14,48 @@ This course explores the concepts and algorithms at the foundation of modern art
 
 - Lecture 0: Search
     - Notes:
-    -- `link here`
+    -- [week 0](./Notes/week_0.pdf "week o")
+
     - Projects:
     -- Degrees
     -- Tic-Tac-Toe
 ___
 - Lecture 1: Knowledge
     - Notes:
-    -- `link here`
+    -- [week 1](./Notes/week_1.pdf "week 1")
     - Projects:
     -- Knights
     -- Minesweeper
 ___
 - Lecture 2: Uncertainty
     - Notes:
-    -- `link here`
+    -- [week 2](./Notes/week_2.pdf "week 2")
     - Projects:
     -- Heredity
     -- PageRank
 ___
 - Lecture 3: Optimization
     - Notes:
-    -- `link here`
+    -- [week 3](./Notes/week_3.pdf "week 3")
     - Projects:
     -- Crossword
 ___
 - Lecture 4: Learning
     - Notes:
-    -- `link here`
+    -- [week 4](./Notes/week_4.pdf "week 4")
     - Projects:
     -- Shopping
     -- Nim
 ___
 - Lecture 5: Neural Networks
     - Notes:
-    -- `link here`
+    -- [week 5](./Notes/week_5.pdf "week 5")
     - Projects:
     -- Traffic
 ___
 - Lecture 6: Language
     - Notes:
-    -- `link here`
+    -- [week 6](./Notes/week_6.pdf "week 6")
     - Projects:
     -- Parser
     -- Questions
